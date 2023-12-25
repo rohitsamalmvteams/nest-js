@@ -1,0 +1,18 @@
+{
+    "grammarly.selectors": [
+        {
+            "language": "markdown",
+            "scheme": "untitled",
+            "pattern": "Untitled-1"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "/var/www/html/nestjs/- Steps to install new mvt tracker :-.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file"
+        }
+    ]
+}
